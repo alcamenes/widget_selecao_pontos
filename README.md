@@ -11,7 +11,7 @@ Componente do Arcgis Experience Builder para seleção de pontos.
 - JDK arcgis-experience-builder-1.17.zip -  https://developers.arcgis.com/experience-builder/guide/downloads/
 
 
-Clone o projeto
+Clone do projeto
 
 ```bash
   git clone git@github.com:alcamenes/widget_selecao_pontos.git
