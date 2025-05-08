@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# widget_selecao_pontos
-=======
 # Listen selection change of a data source
 
 Data sources are a key concept of the ArcGIS Experience Builder architecture. You may want to utilize a data source within your custom widget. This sample demonstrates how to listen to the selection change of a data source.
@@ -45,4 +42,3 @@ Clone the [sample repo](https://github.com/esri/arcgis-experience-builder-sdk-re
       </div>
   }
   ```
->>>>>>> master
