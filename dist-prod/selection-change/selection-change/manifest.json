@@ -1,0 +1,17 @@
+{
+  "name": "selection-change",
+  "label": "Capturar pontos selecionados",
+  "type": "widget",
+  "version": "1.17.0",
+  "exbVersion": "1.17.0",
+  "author": "Alcâmenes S.",
+  "copyright": "",
+  "properties": {},
+  "translatedLocales": [
+    "pt-br"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 400
+  }
+}
